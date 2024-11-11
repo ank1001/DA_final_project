@@ -1,0 +1,8 @@
+
+build a website which shows plots and stuff, it should be able to compute isoprob and dls score and compare them 1 person 
+plots and stats
+---arjun,jagath
+
+write the report in latex as given in template find which plot and tables we can show  1 person --- atharva
+
+write the code and find a way to get 1999 world cup ball by ball data 2 person --- adithya, ankush
