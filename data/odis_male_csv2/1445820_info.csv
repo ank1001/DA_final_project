@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Afghanistan
+info,team,South Africa
+info,gender,male
+info,season,2024
+info,date,2024/09/22
+info,event,Afghanistan vs South Africa
+info,match_number,3
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Afghanistan
+info,toss_decision,bat
+info,player_of_match,Rahmanullah Gurbaz
+info,umpire,Izatullah Safi
+info,umpire,L Rusere
+info,reserve_umpire,Ahmed Shah Durrani
+info,tv_umpire,Ahmed Shah Pakteen
+info,match_referee,RB Richardson
+info,winner,South Africa
+info,winner_wickets,7
+info,player,Afghanistan,Rahmanullah Gurbaz
+info,player,Afghanistan,Abdul Malik
+info,player,Afghanistan,Rahmat Shah
+info,player,Afghanistan,Hashmatullah Shahidi
+info,player,Afghanistan,Azmatullah Omarzai
+info,player,Afghanistan,Ikram Alikhil
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Nangeyalia Kharote
+info,player,Afghanistan,AM Ghazanfar
+info,player,Afghanistan,Fareed Ahmad
+info,player,Afghanistan,Naveed Zadran
+info,player,South Africa,T de Zorzi
+info,player,South Africa,T Bavuma
+info,player,South Africa,RR Hendricks
+info,player,South Africa,AK Markram
+info,player,South Africa,T Stubbs
+info,player,South Africa,K Verreynne
+info,player,South Africa,PWA Mulder
+info,player,South Africa,AL Phehlukwayo
+info,player,South Africa,BC Fortuin
+info,player,South Africa,N Peter
+info,player,South Africa,L Ngidi
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,AM Ghazanfar,9ca68676
+info,registry,people,Abdul Malik,b3218c80
+info,registry,people,Ahmed Shah Durrani,af23265a
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,Fareed Ahmad,67b7bad4
+info,registry,people,Hashmatullah Shahidi,c2a46cb4
+info,registry,people,Ikram Alikhil,f67c958d
+info,registry,people,Izatullah Safi,0429e73e
+info,registry,people,K Verreynne,bf814547
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,N Peter,212aeedd
+info,registry,people,Nangeyalia Kharote,75b8e198
+info,registry,people,Naveed Zadran,e6b6d352
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rahmat Shah,f9c29fcd
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,T de Zorzi,d3a1c63d
