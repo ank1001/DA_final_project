@@ -6,3 +6,17 @@ plots and stats
 write the report in latex as given in template find which plot and tables we can show  1 person --- atharva
 
 write the code and find a way to get 1999 world cup ball by ball data 2 person --- adithya, ankush
+
+
+Notes
+*)In the report we can include strategy for team 1 and team 2 , 
+advantages and disadvantages of isoprobability rule
+*)when does the isoprob rule fails.
+
+
+new tasks:
+The code is finished and we have got the parameters after running on smaller dataset.
+Now @jagath run the code on larger dataset given folder and save those parameters
+@arjun calculate the score on the basis of currently computed parameters replace them when jagath is done with training
+@adithya cooperate with @arjun with what you want to display on website
+@atharv did you start working on report, also we have to prepare a ppt so look into that
