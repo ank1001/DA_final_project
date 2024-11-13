@@ -1,0 +1,11 @@
+preprocessing time: 34.162046909332275
+extras_runss: 34934, total_no_of_balls:726239
+fitting...
+Wicket process fit!
+wicket process fitting time: 21.87142062187195
+fitting...
+Runs process fit!
+Runs process fitting time: 579.8203454017639
+constructing F ...
+F construction time: 9.049739122390747
+Total execution time: 644.9057857990265
