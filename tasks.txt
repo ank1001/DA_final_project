@@ -16,7 +16,7 @@ advantages and disadvantages of isoprobability rule
 
 new tasks:
 The code is finished and we have got the parameters after running on smaller dataset.
-Now @jagath run the code on larger dataset given folder and save those parameters
-@arjun calculate the score on the basis of currently computed parameters replace them when jagath is done with training
-@adithya cooperate with @arjun with what you want to display on website
-@atharv did you start working on report, also we have to prepare a ppt so look into that
+Now @Jagat Chandra CSA run the code on larger dataset given folder and save those parameters and look for plots and tables to include in report
+@ARJUN ◕‿◕ calculate the score on the basis of currently computed parameters replace them when jagath is done with training
+@Adithya Ponnuraj apart from writing loss function cooperate with @arjun with what you want to display on website
+@Atharv Suryawanshi did you start working on report, also we have to prepare a ppt so look into that
