@@ -10,7 +10,11 @@ write the code and find a way to get 1999 world cup ball by ball data 2 person -
 
 Notes
 *)In the report we can include strategy for team 1 and team 2 , 
-advantages and disadvantages of isoprobability rule
+advantages -more fare 
+- example from ppt
+and disadvantages -if interrupted in first innings we dont know what to do
+- wont work well when runs are veryy low
+of isoprobability rule
 *)when does the isoprob rule fails.
 
 
@@ -20,3 +24,33 @@ Now @Jagat Chandra CSA run the code on larger dataset given folder and save thos
 @ARJUN ◕‿◕ calculate the score on the basis of currently computed parameters replace them when jagath is done with training
 @Adithya Ponnuraj apart from writing loss function cooperate with @arjun with what you want to display on website
 @Atharv Suryawanshi did you start working on report, also we have to prepare a ppt so look into that
+
+
+
+14/11/24
+updated tasks:
+	code: 
+	- compute results and plots
+		-cambridge 190 off 50 oxford 162/1 off 31
+		-create table in slide 44
+		-compute table5 table4 and figure4 from carter paper
+	-add duckworth lewis rule
+	- add the duckworth lewis rule to the models section
+	- correct the website functionality
+
+	update this in report:
+	-Introdution: data is from 2001 to october 2024
+	-references: https://cricsheet.org/downloads/
+
+	-write the discussion part
+	-write the results part
+
+
+Presentation
+12 minutes
+
+Introduction, - what why, motivation example, isoprob equation, recursion - 3 minutes - adithya
+iso method in detail - atharv - 3-minutes why probit model only
+demo - explain the functionality of the site, arjun 2-3 minutes
+results -  show results from report 2 minutes - ankush
+discussions - 1 min - advantages and disadvantages, applications(legal betting)  - jagath
