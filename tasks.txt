@@ -35,7 +35,7 @@ updated tasks:
 		-create table in slide 44
 		-compute table5 table4 and figure4 from carter paper
 	-add duckworth lewis rule
-	- add the duckworth lewis rule to the models section
+	- add the duckworth lewis parameters to the models section
 	- correct the website functionality
 
 	update this in report:
